@@ -1,0 +1,44 @@
+body {
+    font-family: sans-serif;
+}
+.link-header {
+    background-color: lightcoral;
+    color: yellow;
+    padding: 5px;
+    margin: 5px;
+    font-size: 30px;
+    box-shadow: 10px 10px 10px black;
+    text-decoration: none;   
+}
+header {
+    background-color: orange;
+    padding: 35px;
+    margin: -8px;
+    text-align: center;
+    background: linear-gradient(lightcoral,brown);
+}
+.link-header:hover{
+    color: lightblue;
+    background-color: darkred;
+}
+.link-nav {
+    font-size: 30px;
+    box-shadow: 20px 15px 9px lightblue;
+    text-decoration: none;
+}
+.link-nav:hover {
+    color: darkred;
+    background-color: darkred;
+}
+h1 {
+    font-size: 70px;
+    text-align: center;
+    font-family: fantasy;
+}
+p {
+    font-size: 30px;
+    font-family:'Courier New', Courier, monospace;   
+}
+.social {
+    margin: 90px;
+}
